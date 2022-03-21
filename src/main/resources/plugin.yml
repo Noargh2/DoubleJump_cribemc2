@@ -1,0 +1,6 @@
+name: DoubleJump_cribemc
+version: '${project.version}'
+main: n0devx.doublejump_cribemc.DoubleJump_cribemc
+api-version: 1.16
+authors: [ Nodevx ]
+description: Double Jump System for cribemc.de
